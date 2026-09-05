@@ -1,0 +1,9 @@
+{
+  "name": "personal-wealth-allocation",
+  "version": "1.0.0",
+  "description": "理財長 AGENT：個人投資理財與資產配置的 Claude Skill 套件（台灣在地情境），含財務體檢、股債比推導、5/25 再平衡與退休缺口試算工具。",
+  "author": {
+    "name": "pmway2025"
+  },
+  "keywords": ["finance", "investment", "asset-allocation", "taiwan", "personal-finance"]
+}

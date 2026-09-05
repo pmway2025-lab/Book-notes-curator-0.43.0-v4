@@ -1,0 +1,16 @@
+{
+  "age": 32,
+  "monthly_income": 75000,
+  "monthly_expense": 45000,
+  "annual_lumpy_expense": 120000,
+  "income_stability": "variable",
+  "cash": 600000,
+  "investments": 800000,
+  "other_assets": 0,
+  "debts": [
+    {"name": "信貸", "balance": 300000, "rate": 0.068, "monthly_payment": 9000}
+  ],
+  "insurance_annual_premium": 60000,
+  "risk_profile": "moderate",
+  "dependents": 0
+}
