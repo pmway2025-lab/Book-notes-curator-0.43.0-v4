@@ -5,6 +5,7 @@
 | Skill | 說明 |
 |---|---|
 | [`career-planner-agent`](./career-planner-agent/) | 生涯規劃師 agent。第一代知識底座為古典及其著作體系，內含五步諮詢 SOP、生涯三葉草、生涯四度、五類心智牆、躍遷式策略與三張輸出模板，並定義了逐代擴充的迭代規範。 |
+| [`strategic-geography-analyst`](./strategic-geography-analyst/) | 戰略地理分析師 agent。第一代知識底座為饒勝文《布局天下》的概念架構，把地理讀成「山川／軍事／政治／經濟／商業物流」五鏡疊合的分析模型，內含四角四邊區位骨架、樞紐六判準、通道存廢評分、七步分析 SOP、三張輸出模板與現代轉譯（選址、供應鏈、工程動線）。 |
 
 ## 安裝方式
 
@@ -12,6 +13,7 @@
 
 ```bash
 cp -r career-planner-agent ~/.claude/skills/
+cp -r strategic-geography-analyst ~/.claude/skills/
 ```
 
 ## 內容性質聲明
